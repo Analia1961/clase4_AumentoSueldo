@@ -39,3 +39,27 @@ btnEnviar.addEventListener("click", () => {
     console.log("Ud. no tiene aumento");
   }
 });
+
+//FILMINAS Ejercicio – Aumento de Sueldo -PAG.70
+//… funcionalidad de ingreso de datos …
+/*rotulo.innerHTML = "Ingrese el salario actual del empleado: ";
+let sueldoActual : number = dato.value;
+let nuevoSueldo : number = 0;
+if ( 0 < sueldoActual && sueldoActual <= 15000 ) {
+nuevoSueldo = sueldoActual*1.2;
+console.log("Ud. tiene un aumento de 20%");
+} else if ( 15001 < sueldoActual && sueldoActual <= 20000 ) {
+nuevoSueldo = sueldoActual*1.1;
+console.log("Ud. tiene un aumento de 10%");
+} else if ( 20001 < sueldoActual && sueldoActual <= 25000 ) {
+nuevoSueldo = sueldoActual * 1.05;
+console.log("Ud. tiene un aumento de 5%");
+} else {
+nuevoSueldo = sueldoActual;
+console.log("Ud. no tiene aumento");
+}*/
+
+/*Ejercicio revisado en el sitio Web CodeSandbox 
+ Repositorio prof. Carlos Daniel Tonelli
+https://codesandbox.io/s/github/daniel-tonelli/Repositorio
+*/
